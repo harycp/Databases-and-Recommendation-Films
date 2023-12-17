@@ -1,0 +1,1824 @@
+Judul: The Shawshank Redemption
+Genre: Drama
+Tahun: 1994
+Durasi: 142
+Rating: 9.3
+---------------------------------------
+Judul: The Godfather
+Genre: Drama
+Tahun: 1972
+Durasi: 175
+Rating: 9.2
+---------------------------------------
+Judul: Schindler's List
+Genre: Drama
+Tahun: 1993
+Durasi: 195
+Rating: 8.9
+---------------------------------------
+Judul: Fight Club
+Genre: Drama
+Tahun: 1999
+Durasi: 139
+Rating: 8.8
+---------------------------------------
+Judul: Forrest Gump
+Genre: Drama
+Tahun: 1994
+Durasi: 142
+Rating: 8.8
+---------------------------------------
+Judul: Goodfellas
+Genre: Drama
+Tahun: 1990
+Durasi: 146
+Rating: 8.7
+---------------------------------------
+Judul: The Green Mile
+Genre: Drama
+Tahun: 1999
+Durasi: 189
+Rating: 8.6
+---------------------------------------
+Judul: American History X
+Genre: Drama
+Tahun: 1998
+Durasi: 119
+Rating: 8.5
+---------------------------------------
+Judul: The Pianist
+Genre: Drama
+Tahun: 2002
+Durasi: 150
+Rating: 8.5
+---------------------------------------
+Judul: Whiplash
+Genre: Drama
+Tahun: 2014
+Durasi: 106
+Rating: 8.5
+---------------------------------------
+Judul: The Departed
+Genre: Drama
+Tahun: 2006
+Durasi: 151
+Rating: 8.5
+---------------------------------------
+Judul: The Social Network
+Genre: Drama
+Tahun: 2010
+Durasi: 120
+Rating: 7.7
+---------------------------------------
+Judul: A Beautiful Mind
+Genre: Drama
+Tahun: 2001
+Durasi: 135
+Rating: 8.2
+---------------------------------------
+Judul: Birdman or (The Unexpected Virtue of Ignorance)
+Genre: Drama
+Tahun: 2014
+Durasi: 119
+Rating: 7.7
+---------------------------------------
+Judul: No Country for Old Men
+Genre: Drama
+Tahun: 2007
+Durasi: 122
+Rating: 8.1
+---------------------------------------
+Judul: Million Dollar Baby
+Genre: Drama
+Tahun: 2004
+Durasi: 132
+Rating: 8.1
+---------------------------------------
+Judul: 12 Years a Slave
+Genre: Drama
+Tahun: 2013
+Durasi: 134
+Rating: 8.1
+---------------------------------------
+Judul: Moonlight
+Genre: Drama
+Tahun: 2016
+Durasi: 111
+Rating: 7.4
+---------------------------------------
+Judul: Manchester by the Sea
+Genre: Drama
+Tahun: 2016
+Durasi: 137
+Rating: 7.8
+---------------------------------------
+Judul: The Revenant
+Genre: Drama
+Tahun: 2015
+Durasi: 156
+Rating: 8.0
+---------------------------------------
+Judul: Pulp Fiction
+Genre: Crime
+Tahun: 1994
+Durasi: 154
+Rating: 8.9
+---------------------------------------
+Judul: The Godfather
+Genre: Crime
+Tahun: 1972
+Durasi: 175
+Rating: 9.2
+---------------------------------------
+Judul: Goodfellas
+Genre: Crime
+Tahun: 1990
+Durasi: 146
+Rating: 8.7
+---------------------------------------
+Judul: The Dark Knight
+Genre: Crime
+Tahun: 2008
+Durasi: 152
+Rating: 9.0
+---------------------------------------
+Judul: Heat
+Genre: Crime
+Tahun: 1995
+Durasi: 170
+Rating: 8.2
+---------------------------------------
+Judul: Scarface
+Genre: Crime
+Tahun: 1983
+Durasi: 170
+Rating: 8.3
+---------------------------------------
+Judul: Reservoir Dogs
+Genre: Crime
+Tahun: 1992
+Durasi: 99
+Rating: 8.3
+---------------------------------------
+Judul: A Clockwork Orange
+Genre: Crime
+Tahun: 1971
+Durasi: 136
+Rating: 8.3
+---------------------------------------
+Judul: Fargo
+Genre: Crime
+Tahun: 1996
+Durasi: 98
+Rating: 8.1
+---------------------------------------
+Judul: The Usual Suspects
+Genre: Crime
+Tahun: 1995
+Durasi: 106
+Rating: 8.5
+---------------------------------------
+Judul: City of God
+Genre: Crime
+Tahun: 2002
+Durasi: 130
+Rating: 8.6
+---------------------------------------
+Judul: Drive
+Genre: Crime
+Tahun: 2011
+Durasi: 100
+Rating: 7.8
+---------------------------------------
+Judul: Prisoners
+Genre: Crime
+Tahun: 2013
+Durasi: 153
+Rating: 8.1
+---------------------------------------
+Judul: The Silence of the Lambs
+Genre: Crime
+Tahun: 1991
+Durasi: 118
+Rating: 8.6
+---------------------------------------
+Judul: Seven
+Genre: Crime
+Tahun: 1995
+Durasi: 127
+Rating: 8.6
+---------------------------------------
+Judul: Training Day
+Genre: Crime
+Tahun: 2001
+Durasi: 122
+Rating: 7.7
+---------------------------------------
+Judul: L.A. Confidential
+Genre: Crime
+Tahun: 1997
+Durasi: 138
+Rating: 8.2
+---------------------------------------
+Judul: Snatch
+Genre: Crime
+Tahun: 2000
+Durasi: 102
+Rating: 8.3
+---------------------------------------
+Judul: The Dark Knight
+Genre: Action
+Tahun: 2008
+Durasi: 152
+Rating: 9.0
+---------------------------------------
+Judul: Inception
+Genre: Action
+Tahun: 2010
+Durasi: 148
+Rating: 8.8
+---------------------------------------
+Judul: The Matrix
+Genre: Action
+Tahun: 1999
+Durasi: 136
+Rating: 8.7
+---------------------------------------
+Judul: Avengers: Infinity War
+Genre: Action
+Tahun: 2018
+Durasi: 149
+Rating: 8.4
+---------------------------------------
+Judul: Mad Max: Fury Road
+Genre: Action
+Tahun: 2015
+Durasi: 120
+Rating: 8.1
+---------------------------------------
+Judul: John Wick
+Genre: Action
+Tahun: 2014
+Durasi: 101
+Rating: 7.4
+---------------------------------------
+Judul: Die Hard
+Genre: Action
+Tahun: 1988
+Durasi: 132
+Rating: 8.2
+---------------------------------------
+Judul: Mission: Impossible - Fallout
+Genre: Action
+Tahun: 2018
+Durasi: 147
+Rating: 7.7
+---------------------------------------
+Judul: Kill Bill: Vol. 1
+Genre: Action
+Tahun: 2003
+Durasi: 111
+Rating: 8.1
+---------------------------------------
+Judul: The Bourne Identity
+Genre: Action
+Tahun: 2002
+Durasi: 119
+Rating: 7.9
+---------------------------------------
+Judul: The Avengers
+Genre: Action
+Tahun: 2012
+Durasi: 143
+Rating: 8.0
+---------------------------------------
+Judul: Casino Royale
+Genre: Action
+Tahun: 2006
+Durasi: 144
+Rating: 8.0
+---------------------------------------
+Judul: Spider-Man: Into the Spider-Verse
+Genre: Action
+Tahun: 2018
+Durasi: 117
+Rating: 8.4
+---------------------------------------
+Judul: Wonder Woman
+Genre: Action
+Tahun: 2017
+Durasi: 141
+Rating: 7.4
+---------------------------------------
+Judul: Crouching Tiger, Hidden Dragon
+Genre: Action
+Tahun: 2000
+Durasi: 120
+Rating: 7.8
+---------------------------------------
+Judul: The Raid: Redemption
+Genre: Action
+Tahun: 2011
+Durasi: 101
+Rating: 7.6
+---------------------------------------
+Judul: Edge of Tomorrow
+Genre: Action
+Tahun: 2014
+Durasi: 113
+Rating: 7.9
+---------------------------------------
+Judul: The Dark Knight Rises
+Genre: Action
+Tahun: 2012
+Durasi: 164
+Rating: 8.4
+---------------------------------------
+Judul: Guardians of the Galaxy
+Genre: Action
+Tahun: 2014
+Durasi: 121
+Rating: 8.0
+---------------------------------------
+Judul: Raiders of the Lost Ark
+Genre: Action
+Tahun: 1981
+Durasi: 115
+Rating: 8.4
+---------------------------------------
+Judul: Interstellar
+Genre: Sci-Fi
+Tahun: 2014
+Durasi: 169
+Rating: 8.6
+---------------------------------------
+Judul: The Matrix
+Genre: Sci-Fi
+Tahun: 1999
+Durasi: 136
+Rating: 8.7
+---------------------------------------
+Judul: Blade Runner 2049
+Genre: Sci-Fi
+Tahun: 2017
+Durasi: 164
+Rating: 8.0
+---------------------------------------
+Judul: Inception
+Genre: Sci-Fi
+Tahun: 2010
+Durasi: 148
+Rating: 8.8
+---------------------------------------
+Judul: The Terminator
+Genre: Sci-Fi
+Tahun: 1984
+Durasi: 107
+Rating: 8.0
+---------------------------------------
+Judul: Star Wars: Episode V - The Empire Strikes Back
+Genre: Sci-Fi
+Tahun: 1980
+Durasi: 124
+Rating: 8.7
+---------------------------------------
+Judul: The Martian
+Genre: Sci-Fi
+Tahun: 2015
+Durasi: 144
+Rating: 8.0
+---------------------------------------
+Judul: Avengers: Infinity War
+Genre: Sci-Fi
+Tahun: 2018
+Durasi: 149
+Rating: 8.4
+---------------------------------------
+Judul: Gravity
+Genre: Sci-Fi
+Tahun: 2013
+Durasi: 91
+Rating: 7.7
+---------------------------------------
+Judul: E.T. the Extra-Terrestrial
+Genre: Sci-Fi
+Tahun: 1982
+Durasi: 115
+Rating: 7.8
+---------------------------------------
+Judul: The Fifth Element
+Genre: Sci-Fi
+Tahun: 1997
+Durasi: 126
+Rating: 7.7
+---------------------------------------
+Judul: The Truman Show
+Genre: Sci-Fi
+Tahun: 1998
+Durasi: 103
+Rating: 8.1
+---------------------------------------
+Judul: 2001: A Space Odyssey
+Genre: Sci-Fi
+Tahun: 1968
+Durasi: 149
+Rating: 8.3
+---------------------------------------
+Judul: Her
+Genre: Sci-Fi
+Tahun: 2013
+Durasi: 126
+Rating: 8.0
+---------------------------------------
+Judul: Avatar
+Genre: Sci-Fi
+Tahun: 2009
+Durasi: 162
+Rating: 7.8
+---------------------------------------
+Judul: District 9
+Genre: Sci-Fi
+Tahun: 2009
+Durasi: 112
+Rating: 7.9
+---------------------------------------
+Judul: Arrival
+Genre: Sci-Fi
+Tahun: 2016
+Durasi: 116
+Rating: 7.9
+---------------------------------------
+Judul: Ex Machina
+Genre: Sci-Fi
+Tahun: 2014
+Durasi: 108
+Rating: 7.7
+---------------------------------------
+Judul: Star Trek
+Genre: Sci-Fi
+Tahun: 2009
+Durasi: 127
+Rating: 7.9
+---------------------------------------
+Judul: Back to the Future
+Genre: Sci-Fi
+Tahun: 1985
+Durasi: 116
+Rating: 8.5
+---------------------------------------
+Judul: The Lord of the Rings: The Return of the King
+Genre: Fantasy
+Tahun: 2003
+Durasi: 201
+Rating: 8.9
+---------------------------------------
+Judul: Harry Potter and the Deathly Hallows: Part 2
+Genre: Fantasy
+Tahun: 2011
+Durasi: 130
+Rating: 8.1
+---------------------------------------
+Judul: Pan's Labyrinth
+Genre: Fantasy
+Tahun: 2006
+Durasi: 118
+Rating: 8.2
+---------------------------------------
+Judul: Spirited Away
+Genre: Fantasy
+Tahun: 2001
+Durasi: 125
+Rating: 8.6
+---------------------------------------
+Judul: The Wizard of Oz
+Genre: Fantasy
+Tahun: 1939
+Durasi: 102
+Rating: 8.0
+---------------------------------------
+Judul: The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+Genre: Fantasy
+Tahun: 2005
+Durasi: 143
+Rating: 6.9
+---------------------------------------
+Judul: The Princess Bride
+Genre: Fantasy
+Tahun: 1987
+Durasi: 98
+Rating: 8.0
+---------------------------------------
+Judul: Big Fish
+Genre: Fantasy
+Tahun: 2003
+Durasi: 125
+Rating: 8.0
+---------------------------------------
+Judul: Beauty and the Beast
+Genre: Fantasy
+Tahun: 1991
+Durasi: 84
+Rating: 8.0
+---------------------------------------
+Judul: Howl's Moving Castle
+Genre: Fantasy
+Tahun: 2004
+Durasi: 119
+Rating: 8.2
+---------------------------------------
+Judul: The Lord of the Rings: The Fellowship of the Ring
+Genre: Fantasy
+Tahun: 2001
+Durasi: 178
+Rating: 8.8
+---------------------------------------
+Judul: The Dark Crystal
+Genre: Fantasy
+Tahun: 1982
+Durasi: 93
+Rating: 7.2
+---------------------------------------
+Judul: Alice in Wonderland
+Genre: Fantasy
+Tahun: 2010
+Durasi: 108
+Rating: 6.4
+---------------------------------------
+Judul: Stardust
+Genre: Fantasy
+Tahun: 2007
+Durasi: 127
+Rating: 7.6
+---------------------------------------
+Judul: Coraline
+Genre: Fantasy
+Tahun: 2009
+Durasi: 100
+Rating: 7.7
+---------------------------------------
+Judul: The Jungle Book
+Genre: Fantasy
+Tahun: 1967
+Durasi: 78
+Rating: 7.6
+---------------------------------------
+Judul: The NeverEnding Story
+Genre: Fantasy
+Tahun: 1984
+Durasi: 102
+Rating: 7.4
+---------------------------------------
+Judul: Edward Scissorhands
+Genre: Fantasy
+Tahun: 1990
+Durasi: 105
+Rating: 7.9
+---------------------------------------
+Judul: Fantastic Beasts and Where to Find Them
+Genre: Fantasy
+Tahun: 2016
+Durasi: 133
+Rating: 7.3
+---------------------------------------
+Judul: Willow
+Genre: Fantasy
+Tahun: 1988
+Durasi: 126
+Rating: 7.3
+---------------------------------------
+Judul: Toy Story
+Genre: Animation
+Tahun: 1995
+Durasi: 81
+Rating: 8.3
+---------------------------------------
+Judul: Spirited Away
+Genre: Animation
+Tahun: 2001
+Durasi: 125
+Rating: 8.6
+---------------------------------------
+Judul: Your Name.
+Genre: Animation
+Tahun: 2016
+Durasi: 106
+Rating: 8.4
+---------------------------------------
+Judul: Coco
+Genre: Animation
+Tahun: 2017
+Durasi: 105
+Rating: 8.4
+---------------------------------------
+Judul: Inside Out
+Genre: Animation
+Tahun: 2015
+Durasi: 95
+Rating: 8.1
+---------------------------------------
+Judul: Ratatouille
+Genre: Animation
+Tahun: 2007
+Durasi: 111
+Rating: 8.0
+---------------------------------------
+Judul: The Lion King
+Genre: Animation
+Tahun: 1994
+Durasi: 88
+Rating: 8.5
+---------------------------------------
+Judul: How to Train Your Dragon
+Genre: Animation
+Tahun: 2010
+Durasi: 98
+Rating: 8.1
+---------------------------------------
+Judul: Zootopia
+Genre: Animation
+Tahun: 2016
+Durasi: 108
+Rating: 8.0
+---------------------------------------
+Judul: Princess Mononoke
+Genre: Animation
+Tahun: 1997
+Durasi: 134
+Rating: 8.4
+---------------------------------------
+Judul: Finding Nemo
+Genre: Animation
+Tahun: 2003
+Durasi: 100
+Rating: 8.1
+---------------------------------------
+Judul: The Incredibles
+Genre: Animation
+Tahun: 2004
+Durasi: 115
+Rating: 8.0
+---------------------------------------
+Judul: Up
+Genre: Animation
+Tahun: 2009
+Durasi: 96
+Rating: 8.2
+---------------------------------------
+Judul: WALL·E
+Genre: Animation
+Tahun: 2008
+Durasi: 98
+Rating: 8.4
+---------------------------------------
+Judul: Moana
+Genre: Animation
+Tahun: 2016
+Durasi: 107
+Rating: 7.6
+---------------------------------------
+Judul: Toy Story 3
+Genre: Animation
+Tahun: 2010
+Durasi: 103
+Rating: 8.2
+---------------------------------------
+Judul: Shrek
+Genre: Animation
+Tahun: 2001
+Durasi: 90
+Rating: 7.9
+---------------------------------------
+Judul: Kung Fu Panda
+Genre: Animation
+Tahun: 2008
+Durasi: 92
+Rating: 7.5
+---------------------------------------
+Judul: Frozen
+Genre: Animation
+Tahun: 2013
+Durasi: 102
+Rating: 7.4
+---------------------------------------
+Judul: The Nightmare Before Christmas
+Genre: Animation
+Tahun: 1993
+Durasi: 76
+Rating: 8.0
+---------------------------------------
+Judul: The Dark Knight
+Genre: Thriller
+Tahun: 2008
+Durasi: 152
+Rating: 9.0
+---------------------------------------
+Judul: Se7en
+Genre: Thriller
+Tahun: 1995
+Durasi: 127
+Rating: 8.6
+---------------------------------------
+Judul: Fight Club
+Genre: Thriller
+Tahun: 1999
+Durasi: 139
+Rating: 8.8
+---------------------------------------
+Judul: Gone Girl
+Genre: Thriller
+Tahun: 2014
+Durasi: 149
+Rating: 8.1
+---------------------------------------
+Judul: The Silence of the Lambs
+Genre: Thriller
+Tahun: 1991
+Durasi: 118
+Rating: 8.6
+---------------------------------------
+Judul: Psycho
+Genre: Thriller
+Tahun: 1960
+Durasi: 109
+Rating: 8.5
+---------------------------------------
+Judul: Shutter Island
+Genre: Thriller
+Tahun: 2010
+Durasi: 138
+Rating: 8.2
+---------------------------------------
+Judul: Memento
+Genre: Thriller
+Tahun: 2000
+Durasi: 113
+Rating: 8.4
+---------------------------------------
+Judul: The Departed
+Genre: Thriller
+Tahun: 2006
+Durasi: 151
+Rating: 8.5
+---------------------------------------
+Judul: Prisoners
+Genre: Thriller
+Tahun: 2013
+Durasi: 153
+Rating: 8.1
+---------------------------------------
+Judul: The Prestige
+Genre: Thriller
+Tahun: 2006
+Durasi: 130
+Rating: 8.5
+---------------------------------------
+Judul: Oldboy
+Genre: Thriller
+Tahun: 2003
+Durasi: 120
+Rating: 8.4
+---------------------------------------
+Judul: The Usual Suspects
+Genre: Thriller
+Tahun: 1995
+Durasi: 106
+Rating: 8.5
+---------------------------------------
+Judul: Heat
+Genre: Thriller
+Tahun: 1995
+Durasi: 170
+Rating: 8.2
+---------------------------------------
+Judul: The Girl with the Dragon Tattoo
+Genre: Thriller
+Tahun: 2011
+Durasi: 158
+Rating: 7.8
+---------------------------------------
+Judul: No Country for Old Men
+Genre: Thriller
+Tahun: 2007
+Durasi: 122
+Rating: 8.1
+---------------------------------------
+Judul: The Bourne Identity
+Genre: Thriller
+Tahun: 2002
+Durasi: 119
+Rating: 7.9
+---------------------------------------
+Judul: Nightcrawler
+Genre: Thriller
+Tahun: 2014
+Durasi: 118
+Rating: 7.8
+---------------------------------------
+Judul: Zodiac
+Genre: Thriller
+Tahun: 2007
+Durasi: 157
+Rating: 7.7
+---------------------------------------
+Judul: The Sixth Sense
+Genre: Thriller
+Tahun: 1999
+Durasi: 107
+Rating: 8.1
+---------------------------------------
+Judul: Raiders of the Lost Ark
+Genre: Adventure
+Tahun: 1981
+Durasi: 115
+Rating: 8.4
+---------------------------------------
+Judul: The Princess Bride
+Genre: Adventure
+Tahun: 1987
+Durasi: 98
+Rating: 8.0
+---------------------------------------
+Judul: Jurassic Park
+Genre: Adventure
+Tahun: 1993
+Durasi: 127
+Rating: 8.1
+---------------------------------------
+Judul: The Jungle Book
+Genre: Adventure
+Tahun: 1967
+Durasi: 78
+Rating: 7.6
+---------------------------------------
+Judul: Pirates of the Caribbean: The Curse of the Black Pearl
+Genre: Adventure
+Tahun: 2003
+Durasi: 143
+Rating: 8.0
+---------------------------------------
+Judul: The Hobbit: An Unexpected Journey
+Genre: Adventure
+Tahun: 2012
+Durasi: 169
+Rating: 7.8
+---------------------------------------
+Judul: Mad Max: Fury Road
+Genre: Adventure
+Tahun: 2015
+Durasi: 120
+Rating: 8.1
+---------------------------------------
+Judul: Indiana Jones and the Last Crusade
+Genre: Adventure
+Tahun: 1989
+Durasi: 127
+Rating: 8.2
+---------------------------------------
+Judul: The Lion King
+Genre: Adventure
+Tahun: 1994
+Durasi: 88
+Rating: 8.5
+---------------------------------------
+Judul: Star Wars: Episode IV - A New Hope
+Genre: Adventure
+Tahun: 1977
+Durasi: 121
+Rating: 8.6
+---------------------------------------
+Judul: The Revenant
+Genre: Adventure
+Tahun: 2015
+Durasi: 156
+Rating: 8.0
+---------------------------------------
+Judul: The Secret Life of Walter Mitty
+Genre: Adventure
+Tahun: 2013
+Durasi: 114
+Rating: 7.3
+---------------------------------------
+Judul: The Goonies
+Genre: Adventure
+Tahun: 1985
+Durasi: 114
+Rating: 7.8
+---------------------------------------
+Judul: Life of Pi
+Genre: Adventure
+Tahun: 2012
+Durasi: 127
+Rating: 7.9
+---------------------------------------
+Judul: The Odyssey
+Genre: Adventure
+Tahun: 1997
+Durasi: 176
+Rating: 7.7
+---------------------------------------
+Judul: Jumanji: Welcome to the Jungle
+Genre: Adventure
+Tahun: 2017
+Durasi: 119
+Rating: 6.9
+---------------------------------------
+Judul: The Lost City of Z
+Genre: Adventure
+Tahun: 2016
+Durasi: 141
+Rating: 6.6
+---------------------------------------
+Judul: The Adventures of Tintin
+Genre: Adventure
+Tahun: 2011
+Durasi: 107
+Rating: 7.3
+---------------------------------------
+Judul: National Treasure
+Genre: Adventure
+Tahun: 2004
+Durasi: 131
+Rating: 6.9
+---------------------------------------
+Judul: Kong: Skull Island
+Genre: Adventure
+Tahun: 2017
+Durasi: 118
+Rating: 6.6
+---------------------------------------
+Judul: Casablanca
+Genre: Romance
+Tahun: 1942
+Durasi: 102
+Rating: 8.5
+---------------------------------------
+Judul: Gone with the Wind
+Genre: Romance
+Tahun: 1939
+Durasi: 238
+Rating: 8.1
+---------------------------------------
+Judul: La La Land
+Genre: Romance
+Tahun: 2016
+Durasi: 128
+Rating: 8.0
+---------------------------------------
+Judul: Titanic
+Genre: Romance
+Tahun: 1997
+Durasi: 194
+Rating: 7.8
+---------------------------------------
+Judul: Pride and Prejudice
+Genre: Romance
+Tahun: 2005
+Durasi: 129
+Rating: 7.8
+---------------------------------------
+Judul: The Notebook
+Genre: Romance
+Tahun: 2004
+Durasi: 123
+Rating: 7.8
+---------------------------------------
+Judul: Eternal Sunshine of the Spotless Mind
+Genre: Romance
+Tahun: 2004
+Durasi: 108
+Rating: 8.3
+---------------------------------------
+Judul: Before Sunrise
+Genre: Romance
+Tahun: 1995
+Durasi: 105
+Rating: 8.1
+---------------------------------------
+Judul: Before Sunset
+Genre: Romance
+Tahun: 2004
+Durasi: 80
+Rating: 8.0
+---------------------------------------
+Judul: Brokeback Mountain
+Genre: Romance
+Tahun: 2005
+Durasi: 134
+Rating: 7.7
+---------------------------------------
+Judul: Silver Linings Playbook
+Genre: Romance
+Tahun: 2012
+Durasi: 122
+Rating: 7.7
+---------------------------------------
+Judul: Her
+Genre: Romance
+Tahun: 2013
+Durasi: 126
+Rating: 8.0
+---------------------------------------
+Judul: The Fault in Our Stars
+Genre: Romance
+Tahun: 2014
+Durasi: 126
+Rating: 7.7
+---------------------------------------
+Judul: 500 Days of Summer
+Genre: Romance
+Tahun: 2009
+Durasi: 95
+Rating: 7.7
+---------------------------------------
+Judul: A Star Is Born
+Genre: Romance
+Tahun: 2018
+Durasi: 136
+Rating: 7.6
+---------------------------------------
+Judul: Carol
+Genre: Romance
+Tahun: 2015
+Durasi: 118
+Rating: 7.2
+---------------------------------------
+Judul: About Time
+Genre: Romance
+Tahun: 2013
+Durasi: 123
+Rating: 7.8
+---------------------------------------
+Judul: The Shape of Water
+Genre: Romance
+Tahun: 2017
+Durasi: 123
+Rating: 7.3
+---------------------------------------
+Judul: Midnight in Paris
+Genre: Romance
+Tahun: 2011
+Durasi: 94
+Rating: 7.7
+---------------------------------------
+Judul: The Bridges of Madison County
+Genre: Romance
+Tahun: 1995
+Durasi: 135
+Rating: 7.5
+---------------------------------------
+Judul: Singin' in the Rain
+Genre: Musical
+Tahun: 1952
+Durasi: 103
+Rating: 8.3
+---------------------------------------
+Judul: The Sound of Music
+Genre: Musical
+Tahun: 1965
+Durasi: 172
+Rating: 8.0
+---------------------------------------
+Judul: La La Land
+Genre: Musical
+Tahun: 2016
+Durasi: 128
+Rating: 8.0
+---------------------------------------
+Judul: Les Misérables
+Genre: Musical
+Tahun: 2012
+Durasi: 158
+Rating: 7.6
+---------------------------------------
+Judul: West Side Story
+Genre: Musical
+Tahun: 1961
+Durasi: 153
+Rating: 7.5
+---------------------------------------
+Judul: Chicago
+Genre: Musical
+Tahun: 2002
+Durasi: 113
+Rating: 7.1
+---------------------------------------
+Judul: Moulin Rouge!
+Genre: Musical
+Tahun: 2001
+Durasi: 127
+Rating: 7.6
+---------------------------------------
+Judul: The Greatest Showman
+Genre: Musical
+Tahun: 2017
+Durasi: 105
+Rating: 7.6
+---------------------------------------
+Judul: Mary Poppins
+Genre: Musical
+Tahun: 1964
+Durasi: 139
+Rating: 7.8
+---------------------------------------
+Judul: Hairspray
+Genre: Musical
+Tahun: 2007
+Durasi: 117
+Rating: 6.6
+---------------------------------------
+Judul: Grease
+Genre: Musical
+Tahun: 1978
+Durasi: 110
+Rating: 7.2
+---------------------------------------
+Judul: Mamma Mia!
+Genre: Musical
+Tahun: 2008
+Durasi: 108
+Rating: 6.4
+---------------------------------------
+Judul: Cabaret
+Genre: Musical
+Tahun: 1972
+Durasi: 124
+Rating: 7.8
+---------------------------------------
+Judul: The Wizard of Oz
+Genre: Musical
+Tahun: 1939
+Durasi: 102
+Rating: 8.0
+---------------------------------------
+Judul: Annie
+Genre: Musical
+Tahun: 1982
+Durasi: 126
+Rating: 6.5
+---------------------------------------
+Judul: Fiddler on the Roof
+Genre: Musical
+Tahun: 1971
+Durasi: 181
+Rating: 8.0
+---------------------------------------
+Judul: Sweeney Todd: The Demon Barber of Fleet Street
+Genre: Musical
+Tahun: 2007
+Durasi: 116
+Rating: 7.3
+---------------------------------------
+Judul: The Rocky Horror Picture Show
+Genre: Musical
+Tahun: 1975
+Durasi: 100
+Rating: 7.4
+---------------------------------------
+Judul: The Phantom of the Opera
+Genre: Musical
+Tahun: 2004
+Durasi: 143
+Rating: 7.2
+---------------------------------------
+Judul: Evita
+Genre: Musical
+Tahun: 1996
+Durasi: 135
+Rating: 6.3
+---------------------------------------
+Judul: The Grand Budapest Hotel
+Genre: Comedy
+Tahun: 2014
+Durasi: 99
+Rating: 8.1
+---------------------------------------
+Judul: Inception
+Genre: Comedy
+Tahun: 2010
+Durasi: 148
+Rating: 8.8
+---------------------------------------
+Judul: The Wolf of Wall Street
+Genre: Comedy
+Tahun: 2013
+Durasi: 180
+Rating: 8.2
+---------------------------------------
+Judul: Deadpool
+Genre: Comedy
+Tahun: 2016
+Durasi: 108
+Rating: 8.0
+---------------------------------------
+Judul: Zootopia
+Genre: Comedy
+Tahun: 2016
+Durasi: 108
+Rating: 8.0
+---------------------------------------
+Judul: Toy Story 3
+Genre: Comedy
+Tahun: 2010
+Durasi: 103
+Rating: 8.2
+---------------------------------------
+Judul: Inside Out
+Genre: Comedy
+Tahun: 2015
+Durasi: 95
+Rating: 8.1
+---------------------------------------
+Judul: The Revenant
+Genre: Comedy
+Tahun: 2015
+Durasi: 156
+Rating: 8.0
+---------------------------------------
+Judul: Jojo Rabbit
+Genre: Comedy
+Tahun: 2019
+Durasi: 108
+Rating: 7.9
+---------------------------------------
+Judul: Birdman or (The Unexpected Virtue of Ignorance)
+Genre: Comedy
+Tahun: 2014
+Durasi: 119
+Rating: 7.7
+---------------------------------------
+Judul: Her
+Genre: Comedy
+Tahun: 2013
+Durasi: 126
+Rating: 8.0
+---------------------------------------
+Judul: The LEGO Movie
+Genre: Comedy
+Tahun: 2014
+Durasi: 100
+Rating: 7.7
+---------------------------------------
+Judul: Three Billboards Outside Ebbing, Missouri
+Genre: Comedy
+Tahun: 2017
+Durasi: 115
+Rating: 8.1
+---------------------------------------
+Judul: The Big Short
+Genre: Comedy
+Tahun: 2015
+Durasi: 130
+Rating: 7.8
+---------------------------------------
+Judul: Silver Linings Playbook
+Genre: Comedy
+Tahun: 2012
+Durasi: 122
+Rating: 7.7
+---------------------------------------
+Judul: The Hangover
+Genre: Comedy
+Tahun: 2009
+Durasi: 100
+Rating: 7.7
+---------------------------------------
+Judul: Crazy, Stupid, Love.
+Genre: Comedy
+Tahun: 2011
+Durasi: 118
+Rating: 7.4
+---------------------------------------
+Judul: The Artist
+Genre: Comedy
+Tahun: 2011
+Durasi: 100
+Rating: 7.9
+---------------------------------------
+Judul: Little Miss Sunshine
+Genre: Comedy
+Tahun: 2006
+Durasi: 101
+Rating: 7.8
+---------------------------------------
+Judul: Amélie
+Genre: Comedy
+Tahun: 2001
+Durasi: 122
+Rating: 8.3
+---------------------------------------
+Judul: Django Unchained
+Genre: Western
+Tahun: 2012
+Durasi: 165
+Rating: 8.4
+---------------------------------------
+Judul: Unforgiven
+Genre: Western
+Tahun: 1992
+Durasi: 131
+Rating: 8.2
+---------------------------------------
+Judul: The Good, the Bad and the Ugly
+Genre: Western
+Tahun: 1966
+Durasi: 178
+Rating: 8.8
+---------------------------------------
+Judul: Once Upon a Time in the West
+Genre: Western
+Tahun: 1968
+Durasi: 165
+Rating: 8.5
+---------------------------------------
+Judul: For a Few Dollars More
+Genre: Western
+Tahun: 1965
+Durasi: 132
+Rating: 8.2
+---------------------------------------
+Judul: The Wild Bunch
+Genre: Western
+Tahun: 1969
+Durasi: 145
+Rating: 7.9
+---------------------------------------
+Judul: High Noon
+Genre: Western
+Tahun: 1952
+Durasi: 85
+Rating: 7.9
+---------------------------------------
+Judul: The Searchers
+Genre: Western
+Tahun: 1956
+Durasi: 119
+Rating: 7.9
+---------------------------------------
+Judul: A Fistful of Dollars
+Genre: Western
+Tahun: 1964
+Durasi: 99
+Rating: 8.0
+---------------------------------------
+Judul: The Assassination of Jesse James by the Coward Robert Ford
+Genre: Western
+Tahun: 2007
+Durasi: 160
+Rating: 7.5
+---------------------------------------
+Judul: True Grit
+Genre: Western
+Tahun: 2010
+Durasi: 110
+Rating: 7.6
+---------------------------------------
+Judul: Tombstone
+Genre: Western
+Tahun: 1993
+Durasi: 130
+Rating: 7.8
+---------------------------------------
+Judul: Open Range
+Genre: Western
+Tahun: 2003
+Durasi: 139
+Rating: 7.4
+---------------------------------------
+Judul: The Magnificent Seven
+Genre: Western
+Tahun: 1960
+Durasi: 128
+Rating: 7.7
+---------------------------------------
+Judul: 3:10 to Yuma
+Genre: Western
+Tahun: 2007
+Durasi: 122
+Rating: 7.7
+---------------------------------------
+Judul: The Outlaw Josey Wales
+Genre: Western
+Tahun: 1976
+Durasi: 135
+Rating: 7.8
+---------------------------------------
+Judul: High Plains Drifter
+Genre: Western
+Tahun: 1973
+Durasi: 105
+Rating: 7.5
+---------------------------------------
+Judul: Appaloosa
+Genre: Western
+Tahun: 2008
+Durasi: 115
+Rating: 6.7
+---------------------------------------
+Judul: The Hateful Eight
+Genre: Western
+Tahun: 2015
+Durasi: 168
+Rating: 7.8
+---------------------------------------
+Judul: The Sisters Brothers
+Genre: Western
+Tahun: 2018
+Durasi: 122
+Rating: 7.0
+---------------------------------------
+Judul: The Social Network
+Genre: Biography
+Tahun: 2010
+Durasi: 120
+Rating: 7.7
+---------------------------------------
+Judul: The Theory of Everything
+Genre: Biography
+Tahun: 2014
+Durasi: 123
+Rating: 7.7
+---------------------------------------
+Judul: Bohemian Rhapsody
+Genre: Biography
+Tahun: 2018
+Durasi: 134
+Rating: 8.0
+---------------------------------------
+Judul: Darkest Hour
+Genre: Biography
+Tahun: 2017
+Durasi: 125
+Rating: 7.4
+---------------------------------------
+Judul: The Imitation Game
+Genre: Biography
+Tahun: 2014
+Durasi: 114
+Rating: 8.0
+---------------------------------------
+Judul: 12 Years a Slave
+Genre: Biography
+Tahun: 2013
+Durasi: 134
+Rating: 8.1
+---------------------------------------
+Judul: A Beautiful Mind
+Genre: Biography
+Tahun: 2001
+Durasi: 135
+Rating: 8.2
+---------------------------------------
+Judul: Dallas Buyers Club
+Genre: Biography
+Tahun: 2013
+Durasi: 117
+Rating: 8.0
+---------------------------------------
+Judul: Capote
+Genre: Biography
+Tahun: 2005
+Durasi: 114
+Rating: 7.3
+---------------------------------------
+Judul: Milk
+Genre: Biography
+Tahun: 2008
+Durasi: 128
+Rating: 7.5
+---------------------------------------
+Judul: Lincoln
+Genre: Biography
+Tahun: 2012
+Durasi: 150
+Rating: 7.3
+---------------------------------------
+Judul: Into the Wild
+Genre: Biography
+Tahun: 2007
+Durasi: 148
+Rating: 8.1
+---------------------------------------
+Judul: The King's Speech
+Genre: Biography
+Tahun: 2010
+Durasi: 118
+Rating: 8.0
+---------------------------------------
+Judul: Ray
+Genre: Biography
+Tahun: 2004
+Durasi: 152
+Rating: 7.7
+---------------------------------------
+Judul: Walk the Line
+Genre: Biography
+Tahun: 2005
+Durasi: 136
+Rating: 7.8
+---------------------------------------
+Judul: The Fighter
+Genre: Biography
+Tahun: 2010
+Durasi: 116
+Rating: 7.8
+---------------------------------------
+Judul: Frida
+Genre: Biography
+Tahun: 2002
+Durasi: 123
+Rating: 7.4
+---------------------------------------
+Judul: Selma
+Genre: Biography
+Tahun: 2014
+Durasi: 128
+Rating: 7.5
+---------------------------------------
+Judul: The Pianist
+Genre: Biography
+Tahun: 2002
+Durasi: 150
+Rating: 8.5
+---------------------------------------
+Judul: I, Tonya
+Genre: Biography
+Tahun: 2017
+Durasi: 120
+Rating: 7.5
+---------------------------------------
+Judul: Hereditary
+Genre: Horror
+Tahun: 2018
+Durasi: 127
+Rating: 7.3
+---------------------------------------
+Judul: A Quiet Place
+Genre: Horror
+Tahun: 2018
+Durasi: 90
+Rating: 7.5
+---------------------------------------
+Judul: Get Out
+Genre: Horror
+Tahun: 2017
+Durasi: 104
+Rating: 7.7
+---------------------------------------
+Judul: The Witch
+Genre: Horror
+Tahun: 2015
+Durasi: 92
+Rating: 6.9
+---------------------------------------
+Judul: The Babadook
+Genre: Horror
+Tahun: 2014
+Durasi: 93
+Rating: 6.8
+---------------------------------------
+Judul: It Follows
+Genre: Horror
+Tahun: 2014
+Durasi: 100
+Rating: 6.8
+---------------------------------------
+Judul: The Conjuring
+Genre: Horror
+Tahun: 2013
+Durasi: 112
+Rating: 7.5
+---------------------------------------
+Judul: Sinister
+Genre: Horror
+Tahun: 2012
+Durasi: 110
+Rating: 6.8
+---------------------------------------
+Judul: Insidious
+Genre: Horror
+Tahun: 2010
+Durasi: 103
+Rating: 6.8
+---------------------------------------
+Judul: Let the Right One In
+Genre: Horror
+Tahun: 2008
+Durasi: 115
+Rating: 7.9
+---------------------------------------
+Judul: The Descent
+Genre: Horror
+Tahun: 2005
+Durasi: 99
+Rating: 7.2
+---------------------------------------
+Judul: Saw
+Genre: Horror
+Tahun: 2004
+Durasi: 103
+Rating: 7.6
+---------------------------------------
+Judul: The Ring
+Genre: Horror
+Tahun: 2002
+Durasi: 115
+Rating: 7.1
+---------------------------------------
+Judul: The Others
+Genre: Horror
+Tahun: 2001
+Durasi: 101
+Rating: 7.6
+---------------------------------------
+Judul: The Sixth Sense
+Genre: Horror
+Tahun: 1999
+Durasi: 107
+Rating: 8.1
+---------------------------------------
+Judul: Ringu
+Genre: Horror
+Tahun: 1998
+Durasi: 96
+Rating: 7.2
+---------------------------------------
+Judul: Scream
+Genre: Horror
+Tahun: 1996
+Durasi: 111
+Rating: 7.3
+---------------------------------------
+Judul: The Silence of the Lambs
+Genre: Horror
+Tahun: 1991
+Durasi: 118
+Rating: 8.6
+---------------------------------------
+Judul: A Nightmare on Elm Street
+Genre: Horror
+Tahun: 1984
+Durasi: 91
+Rating: 7.5
+---------------------------------------
+Judul: The Shining
+Genre: Horror
+Tahun: 1980
+Durasi: 146
+Rating: 8.4
+---------------------------------------
+Judul: Knives Out
+Genre: Mystery
+Tahun: 2019
+Durasi: 130
+Rating: 7.9
+---------------------------------------
+Judul: Gone Girl
+Genre: Mystery
+Tahun: 2014
+Durasi: 149
+Rating: 8.1
+---------------------------------------
+Judul: Shutter Island
+Genre: Mystery
+Tahun: 2010
+Durasi: 138
+Rating: 8.2
+---------------------------------------
+Judul: Zodiac
+Genre: Mystery
+Tahun: 2007
+Durasi: 157
+Rating: 7.7
+---------------------------------------
+Judul: The Prestige
+Genre: Mystery
+Tahun: 2006
+Durasi: 130
+Rating: 8.5
+---------------------------------------
+Judul: Memento
+Genre: Mystery
+Tahun: 2000
+Durasi: 113
+Rating: 8.4
+---------------------------------------
+Judul: Oldboy
+Genre: Mystery
+Tahun: 2003
+Durasi: 120
+Rating: 8.4
+---------------------------------------
+Judul: Prisoners
+Genre: Mystery
+Tahun: 2013
+Durasi: 153
+Rating: 8.1
+---------------------------------------
+Judul: Se7en
+Genre: Mystery
+Tahun: 1995
+Durasi: 127
+Rating: 8.6
+---------------------------------------
+Judul: The Girl with the Dragon Tattoo
+Genre: Mystery
+Tahun: 2011
+Durasi: 158
+Rating: 7.8
+---------------------------------------
+Judul: Memories of Murder
+Genre: Mystery
+Tahun: 2003
+Durasi: 132
+Rating: 8.1
+---------------------------------------
+Judul: The Girl on the Train
+Genre: Mystery
+Tahun: 2016
+Durasi: 112
+Rating: 6.5
+---------------------------------------
+Judul: Wind River
+Genre: Mystery
+Tahun: 2017
+Durasi: 107
+Rating: 7.7
+---------------------------------------
+Judul: The Secret in Their Eyes
+Genre: Mystery
+Tahun: 2009
+Durasi: 129
+Rating: 8.2
+---------------------------------------
+Judul: The Invisible Guest
+Genre: Mystery
+Tahun: 2016
+Durasi: 106
+Rating: 8.1
+---------------------------------------
+Judul: The Vanishing
+Genre: Mystery
+Tahun: 2018
+Durasi: 101
+Rating: 6.3
+---------------------------------------
+Judul: The Chaser
+Genre: Mystery
+Tahun: 2008
+Durasi: 125
+Rating: 7.9
+---------------------------------------
+Judul: Enemy
+Genre: Mystery
+Tahun: 2013
+Durasi: 91
+Rating: 6.9
+---------------------------------------
+Judul: Mystic River
+Genre: Mystery
+Tahun: 2003
+Durasi: 138
+Rating: 7.9
+---------------------------------------
+Judul: The Secret Window
+Genre: Mystery
+Tahun: 2004
+Durasi: 96
+Rating: 6.6
+---------------------------------------
+Judul: Tenet
+Genre: Action
+Tahun: 2020
+Durasi: 150
+Rating: 7.5
+---------------------------------------
+Judul: Soul
+Genre: Animation
+Tahun: 2020
+Durasi: 100
+Rating: 8.1
+---------------------------------------
+Judul: The Trial of the Chicago 7
+Genre: Drama
+Tahun: 2020
+Durasi: 129
+Rating: 7.8
+---------------------------------------
+Judul: Spider-Man: No Way Home
+Genre: Action
+Tahun: 2021
+Durasi: 147
+Rating: 8.2
+---------------------------------------
+Judul: Thor: Love and Thunder
+Genre: Advanture
+Tahun: 2022
+Durasi: 119
+Rating: 6.2
+---------------------------------------
+Judul: The Northman
+Genre: Drama
+Tahun: 2022
+Durasi: 137
+Rating: 7.0
+---------------------------------------
